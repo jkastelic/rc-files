@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/jk/temp/cpp'
+let g:netrw_dirhist_2='/home/jk/temp/cpp/stroustrup1-17'
+let g:netrw_dirhist_3='/home/jk/.vimperator'
+let g:netrw_dirhist_4='/home/jk'
+let g:netrw_dirhist_5='/home/jk/.cache'
